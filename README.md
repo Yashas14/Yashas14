@@ -75,7 +75,7 @@ Let's connect! Find me on:
   
 ## GitHub Stats
 
-![Yashas' GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Yashas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashas14&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas14&layout=compact&theme=radical)
 
