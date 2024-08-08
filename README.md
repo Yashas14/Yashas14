@@ -70,8 +70,8 @@ Always up for collaboration 🤝, tech discussions 💬, and seeking new challen
 
 Let's connect! Find me on:
 
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)(https://github.com/Yashas14)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/yashasd2004/)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashas14)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashasd2004/)
 
 ## GitHub Stats
 
