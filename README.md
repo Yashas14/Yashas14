@@ -66,12 +66,6 @@ Always up for collaboration 🤝, tech discussions 💬, and seeking new challen
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
  
-## GitHub Stats
-
-![Yashas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashas14&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas14&layout=compact&theme=radical)
-
 ## Connect with Me
 
 Let's connect! Find me on:
@@ -79,11 +73,11 @@ Let's connect! Find me on:
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)(https://github.com/Yashas14)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashasd2004/)
 
-## My GitHub Stats
+## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashas14&show_icons=true&theme=dark)
+![Yashas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashas14&show_icons=true&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashas14&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas14&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashas14&theme=dark)
 
