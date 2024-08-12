@@ -17,6 +17,7 @@ Always up for collaboration 🤝, tech discussions 💬, and seeking new challen
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-image](https://img.shields.io/badge/scikit--image-%23008080.svg?style=for-the-badge&logo=scikit-image&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-%23FFBB00.svg?style=for-the-badge&logo=mediapipe&logoColor=white)
 
 ### Artificial Intelligence
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
