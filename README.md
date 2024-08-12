@@ -35,6 +35,7 @@ Always up for collaboration 🤝, tech discussions 💬, and seeking new challen
 ![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-%23008080.svg?style=for-the-badge&logo=logistic-regression&logoColor=white)
 ![Random Forest](https://img.shields.io/badge/Random%20Forest-%23008080.svg?style=for-the-badge&logo=random-forest&logoColor=white)
 ![KNN](https://img.shields.io/badge/KNN-%23008080.svg?style=for-the-badge&logo=knn&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/Mediapipe-%23008080.svg?style=for-the-badge&logo=mediapipe&logoColor=white)
 ![K-Means Clustering](https://img.shields.io/badge/K--Means%20Clustering-%23008080.svg?style=for-the-badge&logo=k-means-clustering&logoColor=white)
 
 ### Deep Learning
