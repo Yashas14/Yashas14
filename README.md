@@ -8,7 +8,7 @@ Always up for collaboration 🤝, tech discussions 💬, and seeking new challen
 
 🌍 Based in India  
 ✉️ Reach out to me at [yashasd2004@gmail.com](mailto:yashasd2004@gmail.com)  
-🤝 Open to collaborations in the Intersection of Machine Learning and Data Science, projects.
+🤝 Open to collaborations in the Intersection of Generative AI, Artificial Intelligence, Machine Learning and Data Science, projects.
 
 ## Skills
 
