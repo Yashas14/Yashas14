@@ -39,6 +39,7 @@ Always up for collaboration 🤝, tech discussions 💬, and seeking new challen
 ![K-Means Clustering](https://img.shields.io/badge/K--Means%20Clustering-%23008080.svg?style=for-the-badge&logo=k-means-clustering&logoColor=white)
 
 ### Deep Learning
+![GAN](https://img.shields.io/badge/GAN-%23008080.svg?style=for-the-badge&logo=gan&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
 ![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-%23EE4C2C.svg?style=for-the-badge&logo=pytorch-lightning&logoColor=white)
@@ -46,7 +47,7 @@ Always up for collaboration 🤝, tech discussions 💬, and seeking new challen
 ![CNN](https://img.shields.io/badge/CNN-%23008080.svg?style=for-the-badge&logo=cnn&logoColor=white)
 ![DNN](https://img.shields.io/badge/DNN-%23008080.svg?style=for-the-badge&logo=dnn&logoColor=white)
 ![RNN](https://img.shields.io/badge/RNN-%23008080.svg?style=for-the-badge&logo=rnn&logoColor=white)
-![GAN](https://img.shields.io/badge/GAN-%23008080.svg?style=for-the-badge&logo=gan&logoColor=white)
+
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
