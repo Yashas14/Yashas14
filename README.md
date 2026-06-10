@@ -17,6 +17,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yashasd2004-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashasd2004/)
 [![Email](https://img.shields.io/badge/Email-yashasd36%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashasd36@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Yashas%20D-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=zEQLrAEAAAAJ&hl=en)
 [![Location](https://img.shields.io/badge/📍_Bengaluru-India-FF6B35?style=for-the-badge)](#)
 
 </div>
