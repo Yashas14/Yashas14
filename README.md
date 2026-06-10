@@ -15,7 +15,6 @@
 
 *Building intelligent systems that automate the complex, scale the impossible, and ship to production.*
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yashas--portfolio--tawny.vercel.app-0f172a?style=for-the-badge)](https://yashas-portfolio-tawny.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-yashasd2004-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashasd2004/)
 [![Email](https://img.shields.io/badge/Email-yashasd36%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashasd36@gmail.com)
 [![Location](https://img.shields.io/badge/📍_Bengaluru-India-FF6B35?style=for-the-badge)](#)
@@ -190,7 +189,6 @@ RouteOpt — real-time AI-driven route optimization to improve urban traffic flo
 **Core Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 **Generative AI & LLMs**
@@ -273,87 +271,3 @@ RouteOpt — real-time AI-driven route optimization to improve urban traffic flo
 </div>
 
 
-
-
-
-
-
-
-# 🗺️ Journey
-
-```text
-2021 ─ Started AIML Engineering
-
-2022 ─ Built ML & Computer Vision Projects
-
-2023 ─ Entered AI Research
-
-2024 ─ IEEE Publications
-
-2024 ─ Patent Filings
-
-2024 ─ Generative AI Intern @ Yokogawa India
-
-2024 ─ National Level Hackathons
-
-2025 ─ AIML Graduate (Honours)
-
-2025 ─ Graduate Trainee Engineer @ Siemens
-
-2026 ─ Building Industrial Copilots
-
-Future ─ Creating AI Systems That Matter
-```
-
----
-
-
----
-
-# ⚔️ AI Arsenal
-
-## 🤖 Generative AI
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Pipelines-blue?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI-Agents-success?style=for-the-badge)
-![Semantic Kernel](https://img.shields.io/badge/Semantic-Kernel-purple?style=for-the-badge)
-
----
-
-## 🧠 Machine Learning & Deep Learning
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
----
-
-## ☁️ Cloud & DevOps
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
----
-
-# 🏆 Hall of Achievements
-
-🥈 Runner-Up — Hack Kshetra National Hackathon
-
-🏅 Top 17 among 2600+ Teams — Tata InnoVent
-
-🏅 Top 25 among 50000+ Participants — Vultr Cloud Hackathon
-
-🏅 Ranked 6th among 5000+ Participants — TechThon
-
-📚 8+ IEEE Publications
-
-📜 2 Patents Filed
-
-🏆 25+ Hackathons
-
----
