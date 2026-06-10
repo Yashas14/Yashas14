@@ -231,6 +231,388 @@ RouteOpt — real-time AI-driven route optimization to improve urban traffic flo
 </div>
 
 
+
+
+
+
+# ⚡ Yashas D
+
+<div align="center">
+
+### 🚀 Industrial AI Engineer | Generative AI Builder | Researcher | Innovator
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Building+Industrial+AI+Systems;Generative+AI+Engineer;Agentic+AI+Developer;IEEE+Research+Author;Patent+Inventor;Turning+Ideas+Into+Intelligent+Solutions" />
+
+</div>
+
+---
+
+## 🎯 Mission
+
+```python
+class Yashas:
+
+    def __init__(self):
+        self.role = "Industrial AI Engineer"
+        self.focus = [
+            "Generative AI",
+            "Agentic Systems",
+            "Industrial Copilots",
+            "Research & Innovation"
+        ]
+
+    def mission(self):
+        return "Build AI that creates measurable impact"
+```
+
+> Building intelligent systems that bridge Artificial Intelligence, Industrial Automation, Research, and Enterprise Applications.
+
+---
+
+# 🗺️ Journey
+
+```text
+2021 ─ Started AIML Engineering
+
+2022 ─ Built ML & Computer Vision Projects
+
+2023 ─ Entered AI Research
+
+2024 ─ IEEE Publications
+
+2024 ─ Patent Filings
+
+2024 ─ Generative AI Intern @ Yokogawa India
+
+2024 ─ National Level Hackathons
+
+2025 ─ AIML Graduate (Honours)
+
+2025 ─ Graduate Trainee Engineer @ Siemens
+
+2026 ─ Building Industrial Copilots
+
+Future ─ Creating AI Systems That Matter
+```
+
+---
+
+# 🎛️ AI Command Center
+
+| Metric | Achievement |
+|----------|------------|
+| 📚 IEEE Publications | 8+ |
+| 📜 Patents Filed | 2 |
+| 🏆 Hackathons | 25+ |
+| 🤖 Enterprise AI Systems | Multiple |
+| ⚡ Industrial Copilots | Active Development |
+| 🌎 Real-World Deployments | Yes |
+| 🔥 Learning Mode | Infinite |
+
+---
+
+# 👨‍💻 About Me
+
+I am passionate about designing and deploying intelligent systems that solve real-world problems.
+
+My work spans across:
+
+- 🤖 Generative AI
+- 🧠 Machine Learning
+- 🔍 Computer Vision
+- ⚡ Agentic AI
+- 🏭 Industrial Automation
+- ☁️ Cloud AI Solutions
+- 📊 Data Intelligence
+
+---
+
+# 💼 Professional Experience
+
+## 🏢 Siemens Technology & Services
+
+### Graduate Trainee Engineer | Aug 2025 – Present
+
+Building Industrial Copilot for Engineering (ICFE).
+
+### Key Contributions
+
+✅ PLC Code Agent Development
+
+✅ Semantic Kernel Integrations
+
+✅ Multi-Agent Architectures
+
+✅ Engineering Workflow Automation
+
+✅ Prompt Evaluation using Promptfoo
+
+✅ Grafana Monitoring
+
+✅ Azure Deployments
+
+✅ CI/CD Pipelines
+
+### Tech Stack
+
+```text
+C#
+Semantic Kernel
+Azure
+Docker
+Promptfoo
+Grafana
+Git
+LLMs
+```
+
+---
+
+## 🤖 Yokogawa India
+
+### Generative AI Intern | Sept 2024 – Jul 2025
+
+Worked on enterprise-grade Generative AI solutions.
+
+### Highlights
+
+- OCR & Intelligent Document Processing
+- FastAPI Backend Development
+- GPT-based Document Analysis
+- Invoice Validation Systems
+- GSTR-3B Reconciliation Automation
+- Azure Blob Storage Integrations
+- Enterprise Automation Solutions
+
+---
+
+# ⚔️ AI Arsenal
+
+## 🤖 Generative AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-blue?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI-Agents-success?style=for-the-badge)
+![Semantic Kernel](https://img.shields.io/badge/Semantic-Kernel-purple?style=for-the-badge)
+
+---
+
+## 🧠 Machine Learning & Deep Learning
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
+---
+
+## ☁️ Cloud & DevOps
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+## 🤖 ARIA - Adaptive Real-Time Intelligence Assistant
+
+An AI-powered intelligent assistant platform focused on adaptive interactions, contextual awareness, and real-time automation.
+
+---
+
+## 📂 Repo Analyzer
+
+AI-powered GitHub Repository Analysis Platform.
+
+### Features
+
+- Repository Structure Analysis
+- Dependency Understanding
+- Automated Documentation
+- Code Intelligence
+- LLM-Based Insights
+
+---
+
+## 🖐 Gesture Controlled AI Platform
+
+Touchless digital interaction ecosystem.
+
+### Modules
+
+- Virtual Mouse
+- Virtual Keyboard
+- Virtual Calculator
+- Virtual Canvas
+- AI Voice Assistant
+
+### Technologies
+
+```text
+OpenCV
+MediaPipe
+Computer Vision
+Generative AI
+```
+
+---
+
+## 🏥 AI Healthcare Chatbot
+
+Healthcare-focused conversational AI platform.
+
+Features:
+
+- Symptom Guidance
+- NLP-Based Interactions
+- Intelligent Healthcare Assistance
+- Real-Time Responses
+
+---
+
+## 🌱 GreenHarvest
+
+AI-Powered Biomass Supply Chain Optimizer.
+
+Built for Walmart Sparkathon.
+
+Capabilities:
+
+- Yield Forecasting
+- Route Optimization
+- Sustainability Analytics
+- Interactive Dashboards
+
+---
+
+# 🔬 Research & Innovation
+
+## 📚 Publications
+
+Author of 8+ IEEE Publications.
+
+### Research Areas
+
+- Generative AI
+- Machine Learning
+- Healthcare AI
+- Time Series Forecasting
+- Computer Vision
+- Intelligent Systems
+
+---
+
+## 📜 Patents
+
+Inventor on 2 Patent Applications.
+
+### Focus Areas
+
+- Gesture Recognition
+- Intelligent Human Computer Interaction
+- Multimodal AI Systems
+
+---
+
+# 🏆 Hall of Achievements
+
+🥈 Runner-Up — Hack Kshetra National Hackathon
+
+🏅 Top 17 among 2600+ Teams — Tata InnoVent
+
+🏅 Top 25 among 50000+ Participants — Vultr Cloud Hackathon
+
+🏅 Ranked 6th among 5000+ Participants — TechThon
+
+📚 8+ IEEE Publications
+
+📜 2 Patents Filed
+
+🏆 25+ Hackathons
+
+---
+
+# 🌱 Leadership & Community
+
+### Vice President — Green Warriors Club
+
+Contributed towards:
+
+- Lake Restoration Drives
+- Water Conservation Programs
+- Environmental Awareness Campaigns
+
+---
+
+# 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Yashas14&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas14&layout=compact&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashas14&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🎯 2026 Focus Areas
+
+```yaml
+focus:
+  - Industrial AI
+  - Agentic AI
+  - Multi-Agent Systems
+  - Enterprise GenAI
+  - AI Evaluation
+  - LLM Optimization
+  - Scalable AI Products
+```
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:yashasd36@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Yashas14">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yashasd2004/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## 💭 Philosophy
+
+### "AI is not about replacing humans."
+
+### "It is about amplifying human potential."
+
+---
+
+### ⚡ Building the Future, One Intelligent System at a Time ⚡
+
+</div>
+
+
+
+
+
 # Hi there! 👋
 
 I'm Yashas D, an Artificial Intelligence and Machine Learning enthusiast based in India. Welcome to my GitHub space, where I blend Machine Learning 🔬 and my Projects 🛡️ to make a meaningful impact in the tech world. 🚀
