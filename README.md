@@ -11,6 +11,8 @@
 
 ### `AI Engineer · GenAI Developer · Researcher`
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Building+Industrial+AI+Systems;Generative+AI+Engineer;Agentic+AI+Developer;IEEE+Research+Author;Patent+Inventor;Turning+Ideas+Into+Intelligent+Solutions" />
+
 *Building intelligent systems that automate the complex, scale the impossible, and ship to production.*
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-yashas--portfolio--tawny.vercel.app-0f172a?style=for-the-badge)](https://yashas-portfolio-tawny.vercel.app/)
@@ -20,6 +22,47 @@
 
 </div>
 
+---
+
+## 🗺️ Journey
+
+<!--
+  Timeline rendered visually on the portfolio.
+  For GitHub README, keeping clean text format below.
+-->
+
+```text
+2021 ─── Started AI & ML Engineering at NHCE Bangalore
+         └─ B.E (Hons) · AIML
+
+2022 ─── Built ML & Computer Vision Projects
+         └─ XGBoost · LSTM · MediaPipe · OpenCV
+
+2023 ─── Entered AI Research                              [research]
+         └─ Began IEEE publications & patent work
+
+2024 ─── 8 IEEE Papers (Scopus) · 2 Patents Filed        [research]
+         └─ Indian Patents Act, 1970
+
+2024 ─── Generative AI Intern @ Yokogawa India            [industry]
+         └─ RAG pipelines · FastAPI · enterprise automation
+
+2024 ─── National-Level Hackathons                        [hackathon]
+         └─ Top 25 of 50k+ (Vultr) · Rank 6 of 5k+ (TechThon)
+
+2025 ─── Graduated with Honours · CGPA 9.38              [education]
+         └─ Artificial Intelligence & Machine Learning
+
+2025 ─── Graduate Trainee Engineer @ Siemens             [industry]
+         └─ Industrial Copilot · Semantic Kernel · Azure · C#
+
+2026 ─── Building Industrial Copilots on TIA Portal       [industry]
+         └─ PLC code agents · multi-agent orchestration
+
+   ∞ ─── Creating AI Systems That Matter █
+```
+
+---
 ---
 
 ## ⚡ At a Glance
@@ -226,7 +269,6 @@ RouteOpt — real-time AI-driven route optimization to improve urban traffic flo
 
 *"Intelligence isn't just about learning — it's about building systems that make the right decisions at scale."*
 
-**`Profile views`** ![](https://komarev.com/ghpvc/?username=Yashas14&color=58a6ff&style=flat-square)
 
 </div>
 
@@ -235,39 +277,7 @@ RouteOpt — real-time AI-driven route optimization to improve urban traffic flo
 
 
 
-# ⚡ Yashas D
 
-<div align="center">
-
-### 🚀 Industrial AI Engineer | Generative AI Builder | Researcher | Innovator
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Building+Industrial+AI+Systems;Generative+AI+Engineer;Agentic+AI+Developer;IEEE+Research+Author;Patent+Inventor;Turning+Ideas+Into+Intelligent+Solutions" />
-
-</div>
-
----
-
-## 🎯 Mission
-
-```python
-class Yashas:
-
-    def __init__(self):
-        self.role = "Industrial AI Engineer"
-        self.focus = [
-            "Generative AI",
-            "Agentic Systems",
-            "Industrial Copilots",
-            "Research & Innovation"
-        ]
-
-    def mission(self):
-        return "Build AI that creates measurable impact"
-```
-
-> Building intelligent systems that bridge Artificial Intelligence, Industrial Automation, Research, and Enterprise Applications.
-
----
 
 # 🗺️ Journey
 
@@ -297,92 +307,6 @@ Future ─ Creating AI Systems That Matter
 
 ---
 
-# 🎛️ AI Command Center
-
-| Metric | Achievement |
-|----------|------------|
-| 📚 IEEE Publications | 8+ |
-| 📜 Patents Filed | 2 |
-| 🏆 Hackathons | 25+ |
-| 🤖 Enterprise AI Systems | Multiple |
-| ⚡ Industrial Copilots | Active Development |
-| 🌎 Real-World Deployments | Yes |
-| 🔥 Learning Mode | Infinite |
-
----
-
-# 👨‍💻 About Me
-
-I am passionate about designing and deploying intelligent systems that solve real-world problems.
-
-My work spans across:
-
-- 🤖 Generative AI
-- 🧠 Machine Learning
-- 🔍 Computer Vision
-- ⚡ Agentic AI
-- 🏭 Industrial Automation
-- ☁️ Cloud AI Solutions
-- 📊 Data Intelligence
-
----
-
-# 💼 Professional Experience
-
-## 🏢 Siemens Technology & Services
-
-### Graduate Trainee Engineer | Aug 2025 – Present
-
-Building Industrial Copilot for Engineering (ICFE).
-
-### Key Contributions
-
-✅ PLC Code Agent Development
-
-✅ Semantic Kernel Integrations
-
-✅ Multi-Agent Architectures
-
-✅ Engineering Workflow Automation
-
-✅ Prompt Evaluation using Promptfoo
-
-✅ Grafana Monitoring
-
-✅ Azure Deployments
-
-✅ CI/CD Pipelines
-
-### Tech Stack
-
-```text
-C#
-Semantic Kernel
-Azure
-Docker
-Promptfoo
-Grafana
-Git
-LLMs
-```
-
----
-
-## 🤖 Yokogawa India
-
-### Generative AI Intern | Sept 2024 – Jul 2025
-
-Worked on enterprise-grade Generative AI solutions.
-
-### Highlights
-
-- OCR & Intelligent Document Processing
-- FastAPI Backend Development
-- GPT-based Document Analysis
-- Invoice Validation Systems
-- GSTR-3B Reconciliation Automation
-- Azure Blob Storage Integrations
-- Enterprise Automation Solutions
 
 ---
 
@@ -414,106 +338,6 @@ Worked on enterprise-grade Generative AI solutions.
 
 ---
 
-# 🚀 Featured Projects
-
-## 🤖 ARIA - Adaptive Real-Time Intelligence Assistant
-
-An AI-powered intelligent assistant platform focused on adaptive interactions, contextual awareness, and real-time automation.
-
----
-
-## 📂 Repo Analyzer
-
-AI-powered GitHub Repository Analysis Platform.
-
-### Features
-
-- Repository Structure Analysis
-- Dependency Understanding
-- Automated Documentation
-- Code Intelligence
-- LLM-Based Insights
-
----
-
-## 🖐 Gesture Controlled AI Platform
-
-Touchless digital interaction ecosystem.
-
-### Modules
-
-- Virtual Mouse
-- Virtual Keyboard
-- Virtual Calculator
-- Virtual Canvas
-- AI Voice Assistant
-
-### Technologies
-
-```text
-OpenCV
-MediaPipe
-Computer Vision
-Generative AI
-```
-
----
-
-## 🏥 AI Healthcare Chatbot
-
-Healthcare-focused conversational AI platform.
-
-Features:
-
-- Symptom Guidance
-- NLP-Based Interactions
-- Intelligent Healthcare Assistance
-- Real-Time Responses
-
----
-
-## 🌱 GreenHarvest
-
-AI-Powered Biomass Supply Chain Optimizer.
-
-Built for Walmart Sparkathon.
-
-Capabilities:
-
-- Yield Forecasting
-- Route Optimization
-- Sustainability Analytics
-- Interactive Dashboards
-
----
-
-# 🔬 Research & Innovation
-
-## 📚 Publications
-
-Author of 8+ IEEE Publications.
-
-### Research Areas
-
-- Generative AI
-- Machine Learning
-- Healthcare AI
-- Time Series Forecasting
-- Computer Vision
-- Intelligent Systems
-
----
-
-## 📜 Patents
-
-Inventor on 2 Patent Applications.
-
-### Focus Areas
-
-- Gesture Recognition
-- Intelligent Human Computer Interaction
-- Multimodal AI Systems
-
 ---
 
 # 🏆 Hall of Achievements
@@ -533,170 +357,3 @@ Inventor on 2 Patent Applications.
 🏆 25+ Hackathons
 
 ---
-
-# 🌱 Leadership & Community
-
-### Vice President — Green Warriors Club
-
-Contributed towards:
-
-- Lake Restoration Drives
-- Water Conservation Programs
-- Environmental Awareness Campaigns
-
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Yashas14&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas14&layout=compact&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Yashas14&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🎯 2026 Focus Areas
-
-```yaml
-focus:
-  - Industrial AI
-  - Agentic AI
-  - Multi-Agent Systems
-  - Enterprise GenAI
-  - AI Evaluation
-  - LLM Optimization
-  - Scalable AI Products
-```
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="mailto:yashasd36@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Yashas14">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/yashasd2004/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<div align="center">
-
-## 💭 Philosophy
-
-### "AI is not about replacing humans."
-
-### "It is about amplifying human potential."
-
----
-
-### ⚡ Building the Future, One Intelligent System at a Time ⚡
-
-</div>
-
-
-
-
-
-# Hi there! 👋
-
-I'm Yashas D, an Artificial Intelligence and Machine Learning enthusiast based in India. Welcome to my GitHub space, where I blend Machine Learning 🔬 and my Projects 🛡️ to make a meaningful impact in the tech world. 🚀
-
-## About Me
-
-Always up for collaboration 🤝, tech discussions 💬, and seeking new challenges 💯. Let's join forces and build a better future together! 🤝
-
-🌍 Based in India  
-✉️ Reach out to me at [yashasd2004@gmail.com](mailto:yashasd2004@gmail.com)  
-🤝 Open to collaborations in the Intersection of Generative AI, Artificial Intelligence, Machine Learning and Data Science, projects.
-
-## Skills
-
-### Computer Vision
-![OpenCV](https://img.shields.io/badge/OpenCV-%23FFBB00.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-image](https://img.shields.io/badge/scikit--image-%23008080.svg?style=for-the-badge&logo=scikit-image&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-%23FFBB00.svg?style=for-the-badge&logo=mediapipe&logoColor=white)
-
-### Artificial Intelligence
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-optimize](https://img.shields.io/badge/scikit--optimize-%23008080.svg?style=for-the-badge&logo=scikit-optimize&logoColor=white)
-
-### Machine Learning
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-%23FFBB00.svg?style=for-the-badge&logo=xgboost&logoColor=white)
-![SVM](https://img.shields.io/badge/SVM-%23008080.svg?style=for-the-badge&logo=svm&logoColor=white)
-![Linear Regression](https://img.shields.io/badge/Linear%20Regression-%23008080.svg?style=for-the-badge&logo=linear-regression&logoColor=white)
-![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-%23008080.svg?style=for-the-badge&logo=logistic-regression&logoColor=white)
-![Random Forest](https://img.shields.io/badge/Random%20Forest-%23008080.svg?style=for-the-badge&logo=random-forest&logoColor=white)
-![KNN](https://img.shields.io/badge/KNN-%23008080.svg?style=for-the-badge&logo=knn&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/Mediapipe-%23008080.svg?style=for-the-badge&logo=mediapipe&logoColor=white)
-![K-Means Clustering](https://img.shields.io/badge/K--Means%20Clustering-%23008080.svg?style=for-the-badge&logo=k-means-clustering&logoColor=white)
-
-### Deep Learning
-![GAN](https://img.shields.io/badge/GAN-%23008080.svg?style=for-the-badge&logo=gan&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-%23EE4C2C.svg?style=for-the-badge&logo=pytorch-lightning&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-%23008080.svg?style=for-the-badge&logo=cnn&logoColor=white)
-![DNN](https://img.shields.io/badge/DNN-%23008080.svg?style=for-the-badge&logo=dnn&logoColor=white)
-![RNN](https://img.shields.io/badge/RNN-%23008080.svg?style=for-the-badge&logo=rnn&logoColor=white)
-
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Database & Frameworks
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=white)
-
-### Operating Systems & Cloud
-![Windows](https://img.shields.io/badge/Windows-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
- 
-## Connect with Me
-
-Let's connect! Find me on:
-
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yashas14)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashasd2004/)
-
-## GitHub Stats
-
-![Yashas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashas14&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas14&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yashas14&theme=dark)
-
-
-
