@@ -69,7 +69,7 @@
 
 ```python
 class YashasD:
-    role        = "Graduate Trainee Engineer @ Siemens Technologies & Services"
+    role        = "Software Developer @ Siemens Technologies & Services"
     focus       = ["Industrial Copilots", "LLM Agents", "Agentic Workflows", "RAG Pipelines"]
     research    = {"IEEE Papers": 8, "Patents Filed": 2, "Springer Conference": 1}
     hackathons  = "25+ participated · multiple national-level recognitions"
@@ -82,7 +82,7 @@ class YashasD:
 
 ## 🏭 Where I Work Now
 
-**Siemens Technologies & Services Pvt Ltd** — *Graduate Trainee Engineer* `Aug 2025 – Present`
+**Siemens Technologies & Services Pvt Ltd** — *Software Developer* `Aug 2025 – Present`
 
 > Working on the **Industrial Copilot for Engineering (ICFE)** inside the TIA Portal ecosystem — where AI meets industrial automation at scale.
 
