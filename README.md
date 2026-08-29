@@ -53,7 +53,7 @@
 2025 ─── Graduated with Honours · CGPA 9.38              [education]
          └─ Artificial Intelligence & Machine Learning
 
-2025 ─── Graduate Trainee Engineer @ Siemens             [industry]
+2025 ─── Software Developer @ Siemens             [industry]
          └─ Industrial Copilot · Semantic Kernel · Azure · C#
 
 2026 ─── Building Industrial Copilots on TIA Portal       [industry]
